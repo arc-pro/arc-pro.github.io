@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Arc-pro&#39;s Blog</title>
+    <link>https://arc-pro.github.io/tags/</link>
+    <description>Recent content in Tags on Arc-pro&#39;s Blog</description>
+    <image>
+      <title>Arc-pro&#39;s Blog</title>
+      <url>https://i.postimg.cc/7hwBy7VS/calcr.png</url>
+      <link>https://i.postimg.cc/7hwBy7VS/calcr.png</link>
+    </image>
+    <generator>Hugo -- 0.134.1</generator>
+    <language>zh</language>
+    <copyright>©2024 Arc-pro&amp;rsquo;s Blog</copyright>
+    <lastBuildDate>Tue, 28 Nov 2023 21:29:54 +0800</lastBuildDate>
+    <atom:link href="https://arc-pro.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>摄影</title>
+      <link>https://arc-pro.github.io/tags/%E6%91%84%E5%BD%B1/</link>
+      <pubDate>Tue, 28 Nov 2023 21:29:54 +0800</pubDate>
+      <guid>https://arc-pro.github.io/tags/%E6%91%84%E5%BD%B1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
